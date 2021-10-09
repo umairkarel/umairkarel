@@ -1,12 +1,10 @@
 <h1 align="center">Hi 👋, I'm Umair Karel</h1>
 <h3 align="center">A Data Science and Machine Learning Enthusiast</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=umairkarel&label=Profile%20views&color=0e75b6&style=flat" alt="umairkarel" /> </p>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=umairkarel&label=Profile%20views&color=0e75b6&style=flat" alt="umairkarel" /> </p>
-🎓 I’m an Open-Source enthusiast & a junior pursuing my Bachelors in Computer Science & Engineering. </br>
-👨‍💻  I am passionate about Machine Learning, Deep Learning, Web Dev & I enjoy learning new things. </br>
-🌱 I’m currently learning **Deep Learning** </br>
-👨‍💻 All of my projects are available at [here](https://github.com/umairkarel?tab=repositories)
+ - 🎓 I’m an Open-Source enthusiast & a junior pursuing my Bachelors in Computer Science & Engineering.
+ - 👨‍💻  I am passionate about Machine Learning, Deep Learning, Web Dev & I enjoy learning new things. 
+ - 🌱 I’m currently learning **Deep Learning**.
+ - 👨‍💻 All of my projects are available [here](https://github.com/umairkarel?tab=repositories)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -32,7 +30,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="flask" width="40" height="40"/>
 </p>
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=umairkarel&label=Profile%20views&color=0e75b6&style=flat" alt="umairkarel" /> </p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=umairkarel&show_icons=true&locale=en&layout=compact" alt="umairkarel" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=umairkarel&show_icons=true&locale=en" alt="umairkarel" /></p>
