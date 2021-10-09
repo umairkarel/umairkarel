@@ -2,19 +2,17 @@
 <h3 align="center">A Data Science and Machine Learning Enthusiast</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=umairkarel&label=Profile%20views&color=0e75b6&style=flat" alt="umairkarel" /> </p>
-
-- 🔭 I’m currently working on [Machine Learning](https://github.com/umairkarel/Machine-Learning)
-
-- 🌱 I’m currently learning **Deep Learning**
-
-- 👯 I’m looking to collaborate on [Machine Learning](https://github.com/umairkarel/Machine-Learning)
-
-- 👨‍💻 All of my projects are available at [here](https://github.com/umairkarel)
-
-- 📫 How to reach me **umair.karel@gmail.com**
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=umairkarel&label=Profile%20views&color=0e75b6&style=flat" alt="umairkarel" /> </p>
+🎓 I’m an Open-Source enthusiast & a junior pursuing my Bachelors in Computer Science & Engineering. </br>
+👨‍💻  I am passionate about Machine Learning, Deep Learning, Web Dev & I enjoy learning new things. </br>
+🌱 I’m currently learning **Deep Learning** </br>
+👨‍💻 All of my projects are available at [here](https://github.com/umairkarel?tab=repositories)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+ <a href="mailto:umair.karel@gmail.com">
+  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+</a>
 <a href="https://www.linkedin.com/in/umairkarel/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/umairkarel" height="30" width="40" /></a>
  <a href="https://twitter.com/KarelUmair" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/twitter/twitter-original.svg" alt="www.twitter.com/in/KarelUmair" height="30" width="40" /></a>
 </p>
