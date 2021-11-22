@@ -1,9 +1,10 @@
 <h1 align="center">Hi 👋, I'm Umair Karel</h1>
-<h3 align="center">A Data Science and Machine Learning Enthusiast</h3>
+<h3 align="center">A Data Science, Machine Learning and Backend Enthusiast</h3>
 
  - 🎓 I’m an Open-Source enthusiast & a junior pursuing my Bachelors in Computer Science & Engineering.
- - 👨‍💻  I am passionate about Machine Learning, Deep Learning, Web Dev & I enjoy learning new things. 
- - 🌱 I’m currently learning **Deep Learning**.
+ - 👨‍💻  I am passionate about ML, DL, Backend Dev & I enjoy learning new things. 
+ - 🌱 I’m currently learning **Backend Dev**.
+ - ✍ I usually write [here](https://medium.com/@umairkarel)
  - 👨‍💻 All of my projects are available [here](https://github.com/umairkarel?tab=repositories)
 
 <h3 align="left">Connect with me:</h3>
@@ -13,6 +14,7 @@
 </a>
 <a href="https://www.linkedin.com/in/umairkarel/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/umairkarel" height="30" width="40" /></a>
  <a href="https://twitter.com/KarelUmair" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/twitter/twitter-original.svg" alt="www.twitter.com/in/KarelUmair" height="30" width="40" /></a>
+ 
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
