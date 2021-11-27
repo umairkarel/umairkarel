@@ -3,7 +3,7 @@
 
  - 🎓 I’m an Open-Source enthusiast & a junior pursuing my Bachelors in Computer Science & Engineering.
  - 👨‍💻  I am passionate about ML, DL, Backend Dev & I enjoy learning new things. 
- - 🌱 I’m currently learning **Backend Dev**.
+ - 🌱 I’m currently learning  **Backend Dev** & **Cloud Computing**.
  - ✍ I usually write [here](https://medium.com/@umairkarel)
  - 👨‍💻 All of my projects are available [here](https://github.com/umairkarel?tab=repositories)
 
