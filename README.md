@@ -45,7 +45,8 @@
  
 <h3 align="left">Tools & Technologies:</h3>
 <p align="left">
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="flask" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" alt="flask" width="40" height="40"/>
 </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=umairkarel&label=Profile%20views&color=0e75b6&style=flat" alt="umairkarel" /> </p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=umairkarel&show_icons=true&locale=en&layout=compact" alt="umairkarel" /></p>
