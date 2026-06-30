@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Umair Karel</h1>
 <h3 align="center">A Data Science, Machine Learning and Backend Enthusiast</h3>
 
- - 🎓 I’m a Software Engineer with 2+ year of experience.
+ - 🎓 I’m a Software Engineer with 3+ year of experience.
  - 👨‍💻  I am passionate about Backend Development, Data Analysis, ML & I enjoy learning new things. 
  - 🌱 I’m currently exploring more on **Backend Development** & **Data Engineering**.
  - ✍ I usually write [here](https://medium.com/@umairkarel)
